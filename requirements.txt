@@ -18,8 +18,16 @@ jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.3
 jupyter-console==5.2.0
+jupyter-contrib-core==0.3.3
+jupyter-contrib-nbextensions==0.5.0
 jupyter-core==4.4.0
+jupyter-highlight-selected-word==0.2.0
+jupyter-latex-envs==1.4.4
+jupyter-nbextensions-configurator==0.4.0
+jupyterthemes==0.19.1
 kiwisolver==1.0.1
+lesscpy==0.13.0
+lxml==4.2.1
 MarkupSafe==1.0
 matplotlib==2.2.2
 mistune==0.8.3
@@ -37,6 +45,7 @@ pathlib==1.0.1
 pexpect==4.5.0
 pickleshare==0.7.4
 plac==0.9.6
+ply==3.11
 preshed==1.0.0
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2
@@ -45,9 +54,11 @@ Pygments==2.2.0
 pyparsing==2.2.0
 python-dateutil==2.7.2
 pytz==2018.4
+PyYAML==3.12
 pyzmq==17.0.0
 qtconsole==4.3.1
 regex==2017.4.5
+rise==5.2.0
 scipy==1.0.1
 seaborn==0.8.1
 Send2Trash==1.5.0
@@ -67,5 +78,5 @@ wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.2.1
 wrapt==1.10.11
-https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.0.0/en_core_web_md-2.0.0.tar.gz
-https://github.com/explosion/spacy-models/releases/download/es_core_news_md-2.0.0/es_core_news_md-2.0.0.tar.gz
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.0.0/en_core_web_sm-2.0.0.tar.gz
+https://github.com/explosion/spacy-models/releases/download/es_core_news_sm-2.0.0/es_core_news_sm-2.0.0.tar.gz
